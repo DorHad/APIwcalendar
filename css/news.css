@@ -1,0 +1,19 @@
+body{
+    direction: rtl;
+    margin: 0;
+    text-align: center;
+    color: whitesmoke;
+    background-image: linear-gradient(45deg, purple, rgb(56, 38, 199));
+
+}
+
+.Box{
+    display: inline-block; /* we want organized blocks here*/
+    text-align: right;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px;
+    width: 300;
+}
